@@ -12,3 +12,7 @@ Organisation of the repositories by theme, technology or domain will evolve alon
 
 # Plotting
 * http://nbviewer.jupyter.org/github/plotly/python-user-guide/blob/master/Index.ipynb
+
+# Tips and Tricks
+* https://www.youtube.com/watch?v=6JpLmAWa6lA - Run iPython rather than the default console in Pycharm
+
